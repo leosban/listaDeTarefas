@@ -1,6 +1,6 @@
 # [Projeto Lista de Tarefas com React]
 
-Usando:</br>
+**Usando:</br>**
 Componentes de classe</br>
 Estilização do form</br>
 Estilização das tarefas</br>
