@@ -1,4 +1,4 @@
-#[Projeto Lista de Tarefas com React]
+# [Projeto Lista de Tarefas com React]
 
 Usando:</br>
 Componentes de classe</br>
